@@ -16,6 +16,9 @@ None
 ## Usage
 An example image of the password generator is displayed in the Develop/Images folder.
 
+![password-generator_screenshot](https://user-images.githubusercontent.com/80605132/229168768-2f0c3ea1-800d-4bb6-b070-e1c0e25e692e.jpg)
+
+
 ## Credits
 
 Content viewed that helped with the project include:
