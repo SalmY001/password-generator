@@ -14,7 +14,7 @@ The project helps to develop skills in javascript coding when used alongside htm
 None
 
 ## Usage
-An example image of the password generator is displayed in the Develop/Images folder.
+An example image of the password generator is displayed below.
 
 ![password-generator_screenshot](https://user-images.githubusercontent.com/80605132/229168768-2f0c3ea1-800d-4bb6-b070-e1c0e25e692e.jpg)
 
